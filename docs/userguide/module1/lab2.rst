@@ -24,6 +24,8 @@ Import the Template
 #. Authenticate to the BIG-IP system with an admin user (default is admin/admin)
 #. On the navigation menu on the left of the screen click iApps -> Templates
 #. Click the 'Import...' button on the top right of the screen
+   
+   NOTE:: check "Overwrite Existing Templates" if necessary
 #. Click the 'Choose File' button
 #. Find the ``.tmpl`` file saved previously and double click it
 #. Click the 'Upload' button
